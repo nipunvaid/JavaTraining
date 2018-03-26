@@ -1,0 +1,35 @@
+2018-03-21 17:55:59,292 INFO  [Log4jLog] Driver was Started now at 1521626159291 
+2018-03-21 17:55:59,421 INFO  [Log4jLog] Driver was Maximized & Implicit Wait Added 
+2018-03-21 17:56:03,416 INFO  [Log4jLog] Application Launched 
+2018-03-21 17:56:15,142 INFO  [Log4jLog] Username & Password Provided and Logged in to FB 
+2018-03-21 17:56:21,990 INFO  [Log4jLog] Test Done; Now Logged Out 
+2018-03-21 17:56:24,306 INFO  [Log4jLog] Driver Closed 
+2018-03-21 18:02:22,422 INFO  [Log4jLog] Driver was Started now at 1521626542421 
+2018-03-21 18:02:22,552 INFO  [Log4jLog] Driver was Maximized & Implicit Wait Added 
+2018-03-21 18:02:27,915 INFO  [Log4jLog] Application Launched 
+2018-03-21 18:02:39,675 INFO  [Log4jLog] Username & Password Provided and Logged in to FB 
+2018-03-21 18:02:45,418 INFO  [Log4jLog] Test Done; Now Logged Out 
+2018-03-21 18:02:47,750 INFO  [Log4jLog] Driver Closed 
+2018-03-21 18:48:30,162 INFO  [Log4jLog] Driver was Started now at 1521629310161 
+2018-03-21 18:48:30,287 INFO  [Log4jLog] Driver was Maximized & Implicit Wait Added 
+2018-03-21 18:48:38,501 INFO  [Log4jLog] Application Launched 
+2018-03-21 18:48:51,287 INFO  [Log4jLog] Driver Closed 
+2018-03-21 18:51:13,435 INFO  [Log4jLog] Driver was Started now at 1521629473434 
+2018-03-21 18:51:13,558 INFO  [Log4jLog] Driver was Maximized & Implicit Wait Added 
+2018-03-21 18:51:21,594 INFO  [Log4jLog] Application Launched 
+2018-03-21 18:51:34,236 INFO  [Log4jLog] Driver Closed 
+2018-03-21 18:51:39,228 INFO  [Log4jLog] Driver was Started now at 1521629499228 
+2018-03-21 18:51:39,364 INFO  [Log4jLog] Driver was Maximized & Implicit Wait Added 
+2018-03-21 18:51:46,769 INFO  [Log4jLog] Application Launched 
+2018-03-21 18:51:57,969 INFO  [Log4jLog] Driver was Started now at 1521629517968 
+2018-03-21 18:51:58,106 INFO  [Log4jLog] Driver was Maximized & Implicit Wait Added 
+2018-03-21 18:52:05,920 INFO  [Log4jLog] Application Launched 
+2018-03-21 18:52:18,482 INFO  [Log4jLog] Username & Password Provided and Logged in to FB 
+2018-03-21 18:52:24,363 INFO  [Log4jLog] Test Done; Now Logged Out 
+2018-03-21 18:52:26,685 INFO  [Log4jLog] Driver Closed 
+2018-03-21 19:07:28,933 INFO  [Log4jLog] Driver was Started now at 1521630448932 
+2018-03-21 19:07:29,107 INFO  [Log4jLog] Driver was Maximized & Implicit Wait Added 
+2018-03-21 19:07:36,582 INFO  [Log4jLog] Application Launched 
+2018-03-21 19:07:51,384 INFO  [Log4jLog] Username & Password Provided and Logged in to FB 
+2018-03-21 19:08:02,510 INFO  [Log4jLog] Test Done; Now Logged Out 
+2018-03-21 19:08:04,879 INFO  [Log4jLog] Driver Closed 

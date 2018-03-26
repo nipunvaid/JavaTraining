@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name= "Grouping Suite">
+<test name="Practice Grouping">
+<groups>
+<define name="All">
+<include name = "car"/>
+<include name = "scooter"/>
+</define>
+<run>
+<include name = "All"/>
+</run>
+</groups>
+<classes>
+<class name="amdocs.testing.automation.Level9TestNG.Grouping" />
+</classes>
+</test>
+</suite>

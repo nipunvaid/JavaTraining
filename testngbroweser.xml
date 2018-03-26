@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestNG Suites" parallel="tests">
+	<test name="TestNG Test chrome">
+	<parameter name="browser" value="chrome" />
+	<classes>
+		<class name="amdocs.testing.automation.Level9TestNG.TestNGTest1" />
+	</classes> 
+</test>
+	<test name="TestNG Test ie">
+	<parameter name="browser" value="ie" />
+	<classes>
+		<class name="amdocs.testing.automation.Level9TestNG.TestNGTest1" />
+	</classes> 
+</test>
+</suite>

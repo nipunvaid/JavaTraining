@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestNG Suites">
+	<test name="TestNG Test">
+	<classes>
+		<class name="amdocs.testing.automation.Level9TestNG.TestNGTest1" />
+		<class name="amdocs.testing.automation.Level9TestNG.TestNGLog4jTest2" />
+		<class name="amdocs.testing.automation.Level9TestNG.BeforeAfterTest" />	
+	</classes> 
+</test>
+</suite>

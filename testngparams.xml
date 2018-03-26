@@ -1,0 +1,17 @@
+<suite name="Suite">
+ 
+    <test name="ToolsQA">
+ 
+	<parameter name="sUsername" value="ernipunvaid@gmail.com"/>
+ 
+	<parameter name="sPassword" value="taken2014"/>
+ 
+		<classes>
+ 
+		    <class name="amdocs.testing.automation.Level9TestNG.ParaMeterTest" />
+ 
+		</classes>
+ 
+    </test>
+ 
+</suite>

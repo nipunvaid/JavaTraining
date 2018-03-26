@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestNG Suites]" parallel="tests">
+  <test thread-count="5" name="TestNG Test ie(failed)" parallel="tests">
+    <parameter name="browser" value="ie"/>
+    <classes>
+      <class name="amdocs.testing.automation.Level9TestNG.TestNGTest1">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="TestFlow" invocation-numbers="0"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- amdocs.testing.automation.Level9TestNG.TestNGTest1 -->
+    </classes>
+  </test> <!-- TestNG Test ie(failed) -->
+  <test thread-count="5" name="TestNG Test chrome(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="amdocs.testing.automation.Level9TestNG.TestNGTest1">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="TestFlow" invocation-numbers="0"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- amdocs.testing.automation.Level9TestNG.TestNGTest1 -->
+    </classes>
+  </test> <!-- TestNG Test chrome(failed) -->
+</suite> <!-- Failed suite [TestNG Suites] -->
